@@ -5,7 +5,7 @@
 </div>
 
 <!--- ![penguin](https://drive.google.com/uc?export=view&id=1CucXE2N9ijMJ4BC29VmhgykH8JyhpqUG)--->
-<img src="https://drive.google.com/uc?export=view&id=1CucXE2N9ijMJ4BC29VmhgykH8JyhpqUG" loading="lazy" alt="Tuxies">
+<img src="https://drive.google.com/uc?export=view&id=1CucXE2N9ijMJ4BC29VmhgykH8JyhpqUG" loading="lazy" alt="Tuxies"/>
 
 We are Club of **Linux and Open Source Enthusiasts** established in **2003** from **Walchand College of Engineering, Sangli** who actively takes part in training students with limited knowledge of Open Source to fully fledged Open Source developers. We conduct various **activities throughout the year** to promote Open Source technologies including talks, discussions, bootcamps and competitions.
 
